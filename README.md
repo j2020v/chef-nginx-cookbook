@@ -1,4 +1,3 @@
-# node_2
+# Nginx
 
-TODO: Enter the cookbook description here.
-
+- Install nginx service
